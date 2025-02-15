@@ -22,20 +22,22 @@ The following images are sample outputs from the `runs/detect` directory, showca
 
 ### Sample Detection Output
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-   <div style="flex: 1; text-align: center;">
-      <img src="runs/detect/predict/1.jpg" alt="Predict 1" style="max-width: 100%;">
-      <p><em>Description: Detection results from the first prediction set.</em></p>
-   </div>
-   <div style="flex: 1; text-align: center;">
-      <img src="runs/detect/predict2/2.jpg" alt="Predict 2" style="max-width: 100%;">
-      <p><em>Description: Detection results from the second prediction set.</em></p>
-   </div>
-   <div style="flex: 1; text-align: center;">
-      <img src="runs/detect/predict3/3.jpg" alt="Predict 3" style="max-width: 100%;">
-      <p><em>Description: Detection results from the third prediction set.</em></p>
-   </div>
-</div>
+<table>
+   <tr>
+      <td style="text-align: center;">
+         <img src="runs/detect/predict/1.jpg" alt="Predict 1" style="width: 200px;">
+         <p><em>Description: Detection results from the first prediction set.</em></p>
+      </td>
+      <td style="text-align: center;">
+         <img src="runs/detect/predict2/2.jpg" alt="Predict 2" style="width: 200px;">
+         <p><em>Description: Detection results from the second prediction set.</em></p>
+      </td>
+      <td style="text-align: center;">
+         <img src="runs/detect/predict3/3.jpg" alt="Predict 3" style="width: 200px;">
+         <p><em>Description: Detection results from the third prediction set.</em></p>
+      </td>
+   </tr>
+</table>
 
 These examples demonstrate the accuracy and efficiency of the detection system in various scenarios.
 
