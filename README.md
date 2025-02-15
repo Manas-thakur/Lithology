@@ -21,15 +21,15 @@ Lithology/
 The following images are sample outputs from the `runs/detect` directory, showcasing the detection and classification capabilities of the system:
 
 ### Predict 1
-![Predict 1](runs\detect\predict\1.jpeg)
+![Predict 1](runs/detect/predict/1.jpg)
 *Description: Detection results from the first prediction set.*
 
 ### Predict 2
-![Predict 2](runs\detect\predict2\2.jpeg)
+![Predict 2](runs/detect/predict2/2.jpg)
 *Description: Detection results from the second prediction set.*
 
 ### Predict 3
-![Predict 3](runs\detect\predict3\3.jpeg)
+![Predict 3](runs/detect/predict3/3.jpg)
 *Description: Detection results from the third prediction set.*
 
 These examples demonstrate the accuracy and efficiency of the detection system in various scenarios.
